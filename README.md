@@ -4,6 +4,7 @@ Api desenvolvida em NodeJS para a pratica da semana omnistack 11 da Rocketseat
 
 Comandos para executar:
 - npm install
+- npx knex migrate:latest 
 - npm start
 
 
